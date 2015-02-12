@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle: \"Dunning-Stancik DV _RProject2\"\noutput: html_document\n---\n\nLink to repo:\n<https://github.com/sarstanc/DV_RProject2>\n\n___\n\n##Austin Police Department Incident Reports in 2011\n\n###Sample of the data from [data.austintexas.gov](https://data.austintexas.gov/Public-Safety/APD-Incident-Extract-2011/gr59-ids7) :\n```{r}\nsource(\"../01 Data/sample.R\", echo=TRUE)\n```\n\n###Data Wrangling\n```{r}\nsource(\"../02 Data Wrangling/wrangling.R\", echo=TRUE)\n```\n\n###Visualizations\n```{r}\nsource(\"../03 Visualizations/visualizations.R\", echo=TRUE)\n```\n\n\n\n",
+    "created" : 1423778960875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3102837422",
+    "id" : "77A0B4B",
+    "lastKnownWriteTime" : 1423781354,
+    "path" : "~/Documents/Development/DataVisualization/DV_RProject2/00 Doc/CopyOfRProject.Rmd",
+    "project_path" : "00 Doc/CopyOfRProject.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
